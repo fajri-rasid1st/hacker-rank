@@ -6,7 +6,8 @@ Java Source Code for some questions on HackerRank website _(https://www.hackerra
 
 ## This code includes :
 
--   java problems
+-   java problem
+-   python problem
 -   problem solving
 
 _to see the syntax code, open the "src/com/....."_.
