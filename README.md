@@ -1,6 +1,6 @@
 # HackerRank
 
-![Screenshot](https://github.com/fajri-rasid1st/HackerRank/blob/master/asset/160_Hackerrank_logo_logos-512.png)
+![Screenshot](https://github.com/fajri-rasid1st/HackerRank/blob/master/asset/hackerrank.png)
 
 Java Source Code for some questions on HackerRank website _(https://www.hackerrank.com)_
 
