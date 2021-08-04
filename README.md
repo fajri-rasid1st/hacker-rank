@@ -1,4 +1,4 @@
-# HackerRank
+# hacker-rank
 
 ![Screenshot](https://github.com/fajri-rasid1st/HackerRank/blob/master/asset/hackerrank.png)
 
